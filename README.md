@@ -1,7 +1,7 @@
 jQuery FormCheck
 ================
 
-I really didn't care for the form validation options available for jQuery, but I *love* the MooTools plugin, [FormCheck].  So I wrote this for jQuery that parses classes in the same way (but without the single quotes because I do not like them), and does some other stuff.  This currently is not nearly as awesome or as complete as [FormCheck], I'm not kidding.
+I really didn't care for the form validation options available for jQuery, but I *love* the MooTools plugin, [FormCheck][].  So I wrote this for jQuery that parses classes in the same way (but without the single quotes because I do not like them), and does some other stuff.  This currently is not nearly as awesome or as complete as [FormCheck][], I'm not kidding.
 
 ### Alpha Alert!
 
